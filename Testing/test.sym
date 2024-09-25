@@ -1,0 +1,42 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	DRAW2ON           30AF
+//	DRAW1ON           30AE
+//	ascii_w           30A1
+//	ascii_s           30A3
+//	DRAW0ON           30AD
+//	c_white           309D
+//	ascii_d           30A4
+//	ascii_a           30A2
+//	LOOP              300B
+//	zeros             309E
+//	DRAW7ON           30B4
+//	DRAW7             30AC
+//	DRAW6ON           30B3
+//	DRAW6             30AB
+//	AUXR7             30BC
+//	c_blue            309B
+//	DRAW5             30AA
+//	AUXR6             30BB
+//	DRAW4             30A9
+//	DRAW3             30A8
+//	AUXR5             30BA
+//	GETYCORD          3092
+//	DRAW2             30A7
+//	AUXR4             30B9
+//	DRAW1             30A6
+//	AUXR3             30B8
+//	DRAW0             30A5
+//	AUXR2             30B7
+//	AUXR1             30B6
+//	AUXR0             30B5
+//	DRAW5ON           30B2
+//	c_red             309C
+//	DRAW4ON           30B1
+//	GETXCORD          3089
+//	DRAW3ON           30B0
+//	count_y           30A0
+//	count_x           309F
+
