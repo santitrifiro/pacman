@@ -1094,6 +1094,10 @@ ADD R6, R6, #-1
 
 OUT
 
+;; Chequeamos monstruo
+
+JSR CHECKMONSTERS
+
 LD R0, contador
 ADD R0, R0, #0
 
