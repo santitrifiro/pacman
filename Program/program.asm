@@ -956,7 +956,7 @@ c_yellow .FILL x7FE0
 c_red .FILL x7C00
 c_white .FILL x7FFF
 c_green .FILL x03E0
-c_black .FILL x0000
+c_black .FILL x0000 
 ;Cantidad de puntos
 contador .FILL x0053
 
@@ -1942,6 +1942,12 @@ zerosend_lose .FILL xFDFF
 
 LOSE 
 
+JSR WAIT
+JSR WAIT
+JSR WAIT
+JSR WAIT
+JSR WAIT
+JSR WAIT
 JSR WAIT
 JSR WAIT
 JSR WAIT
