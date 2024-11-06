@@ -4,7 +4,7 @@ Integrantes: Violeta Magliaro, Valentino Mustafá, Santiago Simón Trifiró, Val
 
 Labores:
 
-(Por comodidad solo un integrante generó commits por comodidad).
+(Por comodidad solo un integrante generó commits).
 
 Violeta Magliaro: Ideamiento de trayecto de fantasmas, patrón diseñado por coordenadas.
 Valentino Mustafá: Investigación de cómo manipular display gráfico, gestión de coordenadas y creación de colores.
