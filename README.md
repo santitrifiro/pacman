@@ -1,5 +1,16 @@
 # PROYECTO PAC-MAN LC3
 
+Integrantes: Violeta Magliaro, Valentino Mustafá, Santiago Simón Trifiró, Valentina Rivero
+
+Labores:
+
+(Por comodidad solo un integrante generó commits por comodidad).
+
+Violeta Magliaro: Ideamiento de trayecto de fantasmas, patrón diseñado por coordenadas.
+Valentino Mustafá: Investigación de cómo manipular display gráfico, gestión de coordenadas y creación de colores.
+Valentina Rivero: Ideamiento de comportamiento general del juego, qué elementos tendrá y cómo asignarlos al mapa general.
+Santiago Simón Trifiró: Código en LC3, ideamiento e implementación de planes y medidas.
+
 Este proyecto consiste en una implementación del videojuego clásico **PAC-MAN** en el simulador LC3. La idea es recrear la experiencia del juego original, utilizando la lógica y los principios del simulador para ofrecer un desafío entretenido y educativo.
 
 ## Pacman
