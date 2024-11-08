@@ -19,7 +19,7 @@ Este proyecto consiste en una implementación del videojuego clásico **PAC-MAN*
 
 ### Cómo se juega
 
-El objetivo principal de Pac-Man es acumular la mayor cantidad de puntos posible al comer todos los puntos del laberinto. Los jugadores utilizan las teclas de dirección para mover a Pac-Man, tratando de evitar los fantasmas que lo persiguen. Aquí están las reglas básicas:
+El objetivo principal de Pac-Man es acumular la mayor cantidad de puntos posible al comer todos los puntos del laberinto. Los jugadores utilizan las teclas de dirección (W-A-S-D) para mover a Pac-Man, tratando de evitar los fantasmas que lo persiguen. Aquí están las reglas básicas:
 
 - **Puntos**: Cada punto que Pac-Man come suma puntos a su puntuación total. 
 - **Fantasmas**: Los fantasmas tienen patrones de movimiento específicos que el jugador debe aprender para evitar ser atrapado. Cada vez que Pac-Man es tocado por un fantasma, pierde una vida.
