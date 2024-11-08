@@ -36,6 +36,10 @@ La idea principal de este proyecto es dividir el display del simulador LC3 en un
 
 El desarrollo de este juego se basa en los principios de programación en ensamblador del LC3, lo que brinda una excelente oportunidad para aprender sobre la manipulación de memoria y los gráficos en un entorno limitado.
 
+![Mi imagen](https://github.com/santitrifiro/pacman/generate.jpeg)
+
+![Mi imagen](https://github.com/santitrifiro/pacman/pattern.jpeg)
+
 ## Cómo compilar
 
 Para compilar y ejecutar el juego, debe seguir los siguientes pasos:
