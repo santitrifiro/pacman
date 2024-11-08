@@ -6,10 +6,10 @@ Labores:
 
 (Por comodidad solo un integrante generó commits).
 
-Violeta Magliaro: Ideamiento de trayecto de fantasmas, patrón diseñado por coordenadas.
-Valentino Mustafá: Investigación de cómo manipular display gráfico, gestión de coordenadas y creación de colores.
-Valentina Rivero: Ideamiento de comportamiento general del juego, qué elementos tendrá y cómo asignarlos al mapa general.
-Santiago Simón Trifiró: Código en LC3, ideamiento e implementación de planes y medidas.
+-- **Violeta Magliaro**: Ideamiento de trayecto de fantasmas, patrón diseñado por coordenadas.
+-- **Valentino Mustafá**: Investigación de cómo manipular display gráfico, gestión de coordenadas y creación de colores.
+-- **Valentina Rivero**: Ideamiento de comportamiento general del juego, qué elementos tendrá y cómo asignarlos al mapa general.
+-- **Santiago Simón Trifiró**: Código en LC3, ideamiento e implementación de planes y medidas.
 
 Este proyecto consiste en una implementación del videojuego clásico **PAC-MAN** en el simulador LC3. La idea es recrear la experiencia del juego original, utilizando la lógica y los principios del simulador para ofrecer un desafío entretenido y educativo.
 
